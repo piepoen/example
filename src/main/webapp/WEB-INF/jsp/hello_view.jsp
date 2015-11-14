@@ -12,7 +12,7 @@
           {
             java.lang.String answer = (java.lang.String)request.getAttribute("greeting");   
       %>
-      <span><%=answer%></span>
+      <span> <%=answer%></span>
       <%
           }
       %>
